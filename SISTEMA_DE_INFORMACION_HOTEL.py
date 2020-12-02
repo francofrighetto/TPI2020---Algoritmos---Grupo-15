@@ -583,7 +583,6 @@ def gestionar_reservas():
         btncalcular_mod_hab = Button(recuadro_metodo,text="Calcular", command=calcular_mod_hab)
         btncalcular_mod_hab.grid(row=2,column=3)
     
-
     def EliminarReserva(): # FUNCION QUE ELIMINAR UNA RESERVA
         # TOMA LOS VALORES A BORRAR DE LA TABLA
         vector_borrar = [str() for ind0 in range(8)]
@@ -914,7 +913,6 @@ def gestionar_habitaciones():
     verscrlbar.grid(row=0)
 
     #   cargamos el archivo a la tabla
-    # VEMOS CUANTOS REGISTROS HAY PARA VER LA LONGITUD DE LA TABLA
     if not os.path.exists("habitaciones.txt"):
         f = open("habitaciones.txt","w")
         f.close()

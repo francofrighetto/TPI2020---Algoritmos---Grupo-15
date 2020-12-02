@@ -1,1 +1,2 @@
-20/11/2020;23/11/2020;2;3;Baja;05-07;aldana;venier;12345678;fasf;dsgsd;fdasf;dfsg;fsdf;Efectivo;0;a confirmar;10350;4140;
+20/11/2020;22/11/2020;2;2;Baja;05-07;aldana;venier;12345678;fasf;dsgsd;fdasf;dfsg;fsdf;Efectivo;0;a confirmar;6900;2760;
+20/11/2020;25/11/2020;2;5;Baja;03;franco;frighetto;12345678;9 de julio;villa maria;cordoba;frangoff@gmail.com;123456789;Efectivo;0;a confirmar;4750;1900;

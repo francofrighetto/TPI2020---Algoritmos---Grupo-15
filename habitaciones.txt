@@ -1,9 +1,9 @@
 01;simple;disponible;950;1200;1500;
 02;simple;ocupada;950;1200;1500;
-03;simple;disponible;950;1200;1500;
-04;doble;mantenimiento;1450;1750,2050;
-05;doble;disponible;1450;1750,2050;
-06;doble;disponible;1450;1750,2050;
+03;simple;ocupada;950;1200;1500;
+04;doble;mantenimiento;1450;1750;2050;
+05;doble;disponible;1450;1750;2050;
+06;doble;disponible;1450;1750;2050;
 07;triple;mantenimiento;2000;2350;2700;
 08;triple;mantenimiento;2000;2350;2700;
 09;triple;disponible;2000;2350;2700;
