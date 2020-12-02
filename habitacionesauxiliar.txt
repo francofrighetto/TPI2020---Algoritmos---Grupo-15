@@ -1,0 +1,15 @@
+01;simple;disponible;950;1200;1500;
+02;simple;ocupada;950;1200;1500;
+03;simple;disponible;950;1200;1500;
+04;doble;mantenimiento;1450;1750,2050;
+05;doble;disponible;1450;1750,2050;
+06;doble;disponible;1450;1750,2050;
+07;triple;mantenimiento;2000;2350;2700;
+08;triple;mantenimiento;2000;2350;2700;
+09;triple;disponible;2000;2350;2700;
+10;suite;ocupada;2450;3000;3450;
+11;suite;disponible;2450;3000;3450;
+12;suite;disponible;2450;3000;3450;
+13;depto.4;disponible;2500;2950;3350;
+14;depto.4;ocupada;2500;2950;3350;
+15;depto.5;disponible;2750;3250;3600;

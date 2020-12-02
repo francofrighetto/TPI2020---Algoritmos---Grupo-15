@@ -1,0 +1,12 @@
+enero;9000;
+febrero;8400;
+marzo;5000;
+abril;3000;
+mayo;2500;
+junio;3000;
+julio;6000;
+agosto;5500;
+septiembre;3000;
+octubre;4500;
+noviembre;6900;
+diciembre;8500;
